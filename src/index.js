@@ -1,12 +1,12 @@
 const pathjuegos = require("node:path");
 const pcolors = require("picocolors");
 const { leoJuegos, EscriboDatosJuego } = require("./archivos.js");
-const { crearInforme } = require("./informe.js");
+const { crearListadoJuegos } = require("./informe.js");
 const rutaDatosJuegos = pathjuegos.join(__dirname, "..", "datos", "juegos.json");
 const rutaSalidaTxt = pathjuegos.join(__dirname, "..", "salida", "FichaJuegosDeMesa.txt");
 async function main() {
     try {
-        console.log(pcolors.magenta("Leyendo Listado de JUEGOS..."));
+        console.log(pcolors.green("Generando informe de juegos de mesa..."));
         const Juegos = await leoJuegos(rutaDatosJuegos);
         const informe = crearListadoJuegos(Juegos);
         await EscriboDatosJuego(rutaSalidaTxt, informe);

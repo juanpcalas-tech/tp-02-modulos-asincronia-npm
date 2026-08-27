@@ -1,0 +1,7 @@
+LISTADO DE JUEGOS DE MESA
+*************************
+Cantidad de Juegos: 4
+ | undefined |  |  -  |  Juego DISPONIBLE
+ | undefined |  |  -  |  Juego NO DISPONIBLE
+ | undefined |  |  -  |  Juego DISPONIBLE
+ | undefined |  |  -  |  Juego DISPONIBLE

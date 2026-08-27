@@ -3,36 +3,38 @@
         "Titulo": "",
         "Editorial": "",
         "Creación": "",
-        "Min.Jugadores": "",
-        "Max.Jugadores": "",
-        "Categoria/as": "",
-        "Disponible": "true"
+        "Min_Jugadores": "",
+        "Max_Jugadores": "",
+        "Categorias": "",
+        "Disponible": true
+    },
+    
+    {
+        "Titulo": "",
+        "Editorial": "",
+        "Creación": "",
+        "Min_Jugadores": "",
+        "Max_Jugadores": "",
+        "Categorias": "",
+        "Disponible": false
     },
     {
         "Titulo": "",
         "Editorial": "",
         "Creación": "",
-        "Min.Jugadores": "",
-        "Max.Jugadores": "",
-        "Categoria/as": "",
-        "Disponible": "false"
+        "Min_Jugadores": "",
+        "Max_Jugadores": "",
+        "Categorias": "",
+        "Disponible": true
     },
     {
         "Titulo": "",
         "Editorial": "",
         "Creación": "",
-        "Min.Jugadores": "",
-        "Max.Jugadores": "",
-        "Categoria/as": "",
-        "Disponible": "true"
-    },
-    {
-        "Titulo": "",
-        "Editorial": "",
-        "Creación": "",
-        "Min.Jugadores": "",
-        "Max.Jugadores": "",
-        "Categoria/as": "",
-        "Disponible": "true"
+        "Min_Jugadores": "",
+        "Max_Jugadores": "",
+        "Categorias": "",
+        "Disponible": true
+
     }
 ]
