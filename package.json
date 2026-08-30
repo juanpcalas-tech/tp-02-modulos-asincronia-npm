@@ -1,5 +1,5 @@
 {
-    "name": "catalogos de juego de mesa",
+    "name": "catalogos-de-juego-de-mesa",
     "version": "1.0.0",
     "private": true,
     "type": "commonjs",
@@ -9,5 +9,19 @@
     },
     "dependencies": {
         "picocolors": "^1.1.1"
-    }
+    },
+    "description": "tp-02-modulos-asincronia-npm",
+    "main": "index.js",
+    "devDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/juanpcalas-tech/tp-02-modulos-asincronia-npm.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/juanpcalas-tech/tp-02-modulos-asincronia-npm/issues"
+    },
+    "homepage": "https://github.com/juanpcalas-tech/tp-02-modulos-asincronia-npm#readme"
 }

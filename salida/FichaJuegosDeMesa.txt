@@ -1,7 +1,36 @@
 LISTADO DE JUEGOS DE MESA
 *************************
 Cantidad de Juegos: 4
-Carcassonne | 2000 | Hans im Glück | 2 - 5 | Colocación de Losetas / Estrategia | Juego DISPONIBLE
-Risk | 1957 | Miro / Hasbro | 2 - 6 | Estrategia / Guerra | Juego NO DISPONIBLE
-Truco | Tradicion Oral | Baraja española | 2 - 6 | Cartas / Tradicional | Juego DISPONIBLE
-Monopoly | 1935 | Hasbro | 2 - 8 | Estrategia / Simulación | Juego DISPONIBLE
+*************************
+1. Carcassonne 
+    Año Creacion :  2000 
+    Editorial/Fabricante:  Hans im Glück 
+    Cant. Minima Jugadores: 2 
+    Cant. Maxima Jugadores 5 
+    Categorías: Colocación de Losetas / Estrategia 
+    Disponibilidad: Juego DISPONIBLE
+    
+2. Risk 
+    Año Creacion :  1957 
+    Editorial/Fabricante:  Miro / Hasbro 
+    Cant. Minima Jugadores: 2 
+    Cant. Maxima Jugadores 6 
+    Categorías: Estrategia / Guerra 
+    Disponibilidad: Juego NO DISPONIBLE
+    
+3. Truco 
+    Año Creacion :  Tradicion Oral 
+    Editorial/Fabricante:  Baraja española 
+    Cant. Minima Jugadores: 2 
+    Cant. Maxima Jugadores 6 
+    Categorías: Cartas / Tradicional 
+    Disponibilidad: Juego DISPONIBLE
+    
+4. Monopoly 
+    Año Creacion :  1935 
+    Editorial/Fabricante:  Hasbro 
+    Cant. Minima Jugadores: 2 
+    Cant. Maxima Jugadores 8 
+    Categorías: Estrategia / Simulación 
+    Disponibilidad: Juego DISPONIBLE
+    
