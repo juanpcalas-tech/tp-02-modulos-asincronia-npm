@@ -19,7 +19,7 @@ Cantidad de Juegos: 4
     Disponibilidad: Juego NO DISPONIBLE
     
 3. Truco 
-    Año Creacion :  Tradicion Oral 
+    Año Creacion :  1900 
     Editorial/Fabricante:  Baraja española 
     Cant. Minima Jugadores: 2 
     Cant. Maxima Jugadores 6 

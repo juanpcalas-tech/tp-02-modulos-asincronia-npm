@@ -2,9 +2,9 @@
     {
         "Titulo": "Carcassonne",
         "Editorial": "Hans im Glück",
-        "Creacion": "2000",
-        "Min_Jugadores": "2",
-        "Max_Jugadores": "5",
+        "Creacion": 2000,
+        "Min_Jugadores": 2,
+        "Max_Jugadores": 5,
         "Categorias": "Colocación de Losetas / Estrategia",
         "Disponible": true
     },
@@ -12,27 +12,27 @@
     {
         "Titulo": "Risk",
         "Editorial": "Miro / Hasbro",
-        "Creacion": "1957",
-        "Min_Jugadores": "2",
-        "Max_Jugadores": "6",
+        "Creacion": 1957,
+        "Min_Jugadores": 2,
+        "Max_Jugadores": 6,
         "Categorias": "Estrategia / Guerra",
         "Disponible": false
     },
     {
         "Titulo": "Truco",
         "Editorial": "Baraja española",
-        "Creacion": "Tradicion Oral",
-        "Min_Jugadores": "2",
-        "Max_Jugadores": "6",
+        "Creacion": 1900,
+        "Min_Jugadores": 2,
+        "Max_Jugadores": 6,
         "Categorias": "Cartas / Tradicional",
         "Disponible": true
     },
     {
         "Titulo": "Monopoly",
         "Editorial": "Hasbro",
-        "Creacion": "1935",
-        "Min_Jugadores": "2",
-        "Max_Jugadores": "8",
+        "Creacion": 1935,
+        "Min_Jugadores": 2,
+        "Max_Jugadores": 8,
         "Categorias": "Estrategia / Simulación",
         "Disponible": true
 

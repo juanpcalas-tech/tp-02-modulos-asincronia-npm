@@ -3,7 +3,7 @@ const pcolors = require("picocolors");
 const { leoJuegos, EscriboDatosJuego } = require("./archivos.js");
 const { crearListadoJuegos } = require("./juegos.js");
 const rutaDatosJuegos = pathjuegos.join(__dirname, "..", "datos", "juegos.json");
-const rutaSalidaTxt = pathjuegos.join(__dirname, "..", "salida", "FichaJuegosDeMesa.txt");
+const rutaSalidaTxt = pathjuegos.join(__dirname, "..", "salida", "Catalogo-juegos.txt");
 async function main() {
     try {
         console.log(pcolors.green("Generando informe de juegos de mesa..."));
